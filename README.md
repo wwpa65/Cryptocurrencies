@@ -14,10 +14,17 @@ We have used unsupervised learning to analyze cryptocurrency market data. Accoun
 
 ## Results
 
+![Cleaned_table](/images/cleaned.png)
+
 ![PCA](/images/pca.png)
+
+![PCA_Components](/images/pca_3components.png)
 
 
 ![Elbow](images/elbow_curve.png)
+
+
+![Combined_table](images/combined_table.png)
 
 
 ![Scatter](images/scatter_plot.png)
