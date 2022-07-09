@@ -6,6 +6,15 @@ The data Martha will be working with is not ideal, so it will need to be process
 
 ## Overview
 
+
+
+**Tools Used:**
+
+- Python, Pandas
+- Scikit Learn
+- Imbalanced-learn
+- Git
+
 ## Results
 
 ![PCA](/images/pca.png)
