@@ -14,7 +14,10 @@ The data Martha will be working with is not ideal, so it will need to be process
 ![Elbow](images/elbow_curve.png)
 
 
-![Scatter](scatter_plot.png)
+![Scatter](images/scatter_plot.png)
+
+
+![Scatter-hover](images/scatter_hover.png)
 
 
 ## Summary
