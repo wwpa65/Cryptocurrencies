@@ -53,10 +53,13 @@ We have used unsupervised learning to analyze cryptocurrency market data. Accoun
 
 ![Scatter](images/scatter_plot.png)
 
-**Scatter Plot 0f tradable Cryptocurrencies Colored by the K Clusters**
+**Scatter Plot of Tradable Cryptocurrencies Colored by the K Clusters**
 
 ![Scatter-hover](images/scatter_hover.png)
 
+**ScatterPlot of Tradable Cryptocurrencies Colored by the K Clusters (hovered on a data point to show details)*
 
 ## Summary
+
+We have created data frames, cleaned up data, standardadized data for further analysis. PCA and subsequent K-Means clustering on the 3 PC components in PCA was performed on pre-processed data. We found 4 clusters of Cryptocurrencies.  
 
